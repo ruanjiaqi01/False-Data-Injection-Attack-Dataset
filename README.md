@@ -5,6 +5,6 @@ For each power system benchmark, there are three data files: Admittance Matrix, 
 
 The data are recorded with state estimation results, which contains voltage magnitudes and phase angles of all buses.
 
-More details can be found in the article "Super-Resolution Perception Assisted Spatiotemporal Graph Deep Learning against False Data Injection Attacks in Smart Grid".
+More details can be found in the article "Super-Resolution Perception Assisted Spatiotemporal Graph Deep Learning against False Data Injection Attacks in Smart Grid", submitted to IEEE Transactions on Smart Grid.
 
 If you have any problems or pursue cooperations, please send email to jiaqiruan01@gmail.com.
